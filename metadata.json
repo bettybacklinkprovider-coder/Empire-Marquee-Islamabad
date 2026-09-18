@@ -1,0 +1,6 @@
+{
+  "name": "Jugnu Marquee & Event Lawn",
+  "description": "Premier luxury wedding marquee and outdoor event lawn venue in Pakistan. Featuring bespoke event setups, halls, outdoor lawns, stage decorations, catering, and instant booking calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
